@@ -44,4 +44,4 @@ Each section provides a clear example followed by an exercise for you to complet
 
 By the end of this notebook, you'll have a strong grasp of basic machine learning concepts and hands-on experience that will prepare you for more advanced projects.
 
-[Access the Notebook](https://colab.research.google.com/drive/1TvQz30n1PNz0STSQ70PZo8t__Hw63k_x#scrollTo=8-8rrMufX_Jb)
+[Slides](https://www.canva.com/design/DAGNt-Bt-ME/-KoHr7iWrpuJOTopwY1FbQ/edit?utm_content=DAGNt-Bt-ME&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
