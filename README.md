@@ -1,6 +1,6 @@
 # Machine Learning with Beauty: Analyzing Sephora Skincare Products and Reviews
 
-[Access the Notebook](https://colab.research.google.com/drive/1TvQz30n1PNz0STSQ70PZo8t__Hw63k_x#scrollTo=8-8rrMufX_Jb)
+[Access the Notebook](https://colab.research.google.com/drive/12moIMlbwAIOBx-g5oPUuGhPahYwMCSQ_?usp=sharing)
 
 Click -> File -> save a Copy in Drive
 
