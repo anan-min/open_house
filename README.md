@@ -2,6 +2,8 @@
 
 [Access the Notebook](https://colab.research.google.com/drive/1TvQz30n1PNz0STSQ70PZo8t__Hw63k_x#scrollTo=8-8rrMufX_Jb)
 
+Click -> File -> save a Copy in Drive
+
 ## Overview
 
 Welcome to the Machine Learning with Beauty project! This notebook introduces you to machine learning using real-world data from Sephora. You'll analyze and model data from over 8,000 skincare products and 1 million user reviews.
