@@ -46,3 +46,4 @@ By the end of this notebook, you'll have a strong grasp of basic machine learnin
 
 [Slides](https://www.canva.com/design/DAGNt-Bt-ME/-KoHr7iWrpuJOTopwY1FbQ/edit?utm_content=DAGNt-Bt-ME&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 [Solutions](https://colab.research.google.com/drive/1xN9pOtIv7ZwuQv6wrvY-NKlEAd9OBXIb?usp=sharing)
+[Blank notes](https://colab.research.google.com/drive/1TvQz30n1PNz0STSQ70PZo8t__Hw63k_x?usp=sharing)
